@@ -87,3 +87,22 @@ a:hover {
     color: #ccc;
     font-weight: bold;
 }
+
+#showcase {
+    min-height: 400px;
+    background-image: url("laptop.png");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: #fff;
+}
+
+#showcase h1 {
+    margin-top: 100px;
+    margin-bottom: 10px;
+    font-size: 55px;
+}
+
+#showcase p {
+    font-size: 20px;
+}
